@@ -1,0 +1,14 @@
+{
+  "name": "tencent-serverless-test",
+  "scripts": {
+    "dev": "next dev -p 5057",
+    "build": "next build"
+  },
+  "dependencies": {
+    "react": "rc",
+    "react-dom": "rc"
+  },
+  "devDependencies": {
+    "next": "^12.0.7"
+  }
+}
