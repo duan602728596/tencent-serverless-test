@@ -7,7 +7,7 @@ inputs:
     exclude:
       - .env
   faas:
-    runtime: Nodejs16
+    runtime: Nodejs12.16
     framework: nextjs
     name: '${name}'
     eip: false
