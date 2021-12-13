@@ -1,5 +1,6 @@
 {
   "name": "tencent-serverless-test",
+  "version": "0.0.0",
   "scripts": {
     "dev": "next dev -p 5057",
     "build": "next build"
